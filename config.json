@@ -1,0 +1,8 @@
+{
+    "ip2bram":{
+        "bram":{
+            "MEM_WIDTH": "MEM_WIDTH",
+            "MEM_SIZE":  "MEM_SIZE"
+        }
+    }
+}
